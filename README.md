@@ -50,8 +50,8 @@ class App extends Component {
 }
 ```
 
-#Contributors
+## Contributors
 [@sergiombravo](https://www.linkedin.com/in/sergiomunozbravo/)
 
-#Happy coding
+## Happy coding
 Made with ❤️
